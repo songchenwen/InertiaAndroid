@@ -1,0 +1,14 @@
+*/target/*
+*/bin/*
+*/gen/*
+*/.classpath
+*/.settings/*
+*/.idea/*
+.idea/*
+.gradle/*
+*/classes/*
+*.iml
+*.class
+*/build/*
+gradle/wrapper/*
+local.properties
